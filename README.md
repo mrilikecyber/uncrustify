@@ -2,6 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/uncrustify/uncrustify/badge.svg?branch=master)](https://coveralls.io/github/uncrustify/uncrustify?branch=master)
 <a href="#"><img src="https://img.shields.io/badge/C++-11-blue.svg?style=flat-square"></a>
 [![Conan Center](https://shields.io/conan/v/uncrustify)](https://conan.io/center/uncrustify)
+[![Scorecard supply-chain security](https://github.com/mrilikecyber/uncrustify/actions/workflows/scorecard.yml/badge.svg)](https://github.com/mrilikecyber/uncrustify/actions/workflows/scorecard.yml)
 
 ---------------------------
 
